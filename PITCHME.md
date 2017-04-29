@@ -25,7 +25,7 @@ Miguel
 
 Modificaciones a Amber Smalltalk
 
-![amber](https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Amber_Smalltalk_Logo.svg/1280px-Amber_Smalltalk_Logo.svg.png)
+![amber](https://pbs.twimg.com/profile_images/1526408224/amber_logo_400x400.png)
 
 ---
   
