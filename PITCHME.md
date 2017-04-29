@@ -38,7 +38,7 @@ Amber es una implementación web de Smalltalk.
 
 Lázaro: lector de pantalla para Pharo
 
-<img src="https://pharo.org/web/files/pharo.png" width="300" height="200"/>
+<img src="https://pharo.org/web/files/pharo.png" width="300" height="150"/>
 
 ---
 
