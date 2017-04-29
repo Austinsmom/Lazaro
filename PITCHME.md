@@ -6,13 +6,10 @@
 
 ---
 
----
-
 ## ¿Qué es Smalltalk?
 
 ![smalltalk](https://pupeno.files.wordpress.com/2011/07/smalltalk-logo9.gif?w=240)
 
----
 
 ---
 
@@ -24,8 +21,6 @@ Miguel
 
 ---
 
----
-
 ## Etapa 1
 
 Modificaciones a Amber Smalltalk
@@ -33,12 +28,9 @@ Modificaciones a Amber Smalltalk
 ![amber](https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Amber_Smalltalk_Logo.svg/1280px-Amber_Smalltalk_Logo.svg.png)
 
 ---
-
----
   
 Amber es una implementación web de Smalltalk.
 
----
 
 ---
 
@@ -50,11 +42,7 @@ Lázaro: lector de pantalla para Pharo
 
 ---
 
----
-
 Pharo es una implementación desktop de Smalltalk, de software libre.
-
----
 
 ---
 
@@ -62,15 +50,10 @@ Pharo es una implementación desktop de Smalltalk, de software libre.
 
 ---
 
----
-
 # ¿Preguntas?
 
 ![thinking-face](http://pix.iemoji.com/images/emoji/apple/ios-9/256/thinking-face.png)
----
 
 ---
 
 # Gracias!
-
----
