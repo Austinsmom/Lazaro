@@ -38,7 +38,7 @@ Amber es una implementación web de Smalltalk.
 
 Lázaro: lector de pantalla para Pharo
 
-<img src="https://pharo.org/web/files/pharo.png" width="250" height="200"/>
+<img src="https://pharo.org/web/files/pharo.png" width="300" height="200"/>
 
 ---
 
@@ -52,7 +52,7 @@ Pharo es una implementación desktop de Smalltalk, de software libre.
 
 # ¿Preguntas?
 
-<img src="https://img.clipartfest.com/4080354b8aa40b5c97e249598b4604f9_question-mark-icon-png-clipart-question-clipart-png_1500-1500.png" width="200" height="250"/>
+<img src="https://img.clipartfest.com/4080354b8aa40b5c97e249598b4604f9_question-mark-icon-png-clipart-question-clipart-png_1500-1500.png" width="250" height="250"/>
 
 ---
 
