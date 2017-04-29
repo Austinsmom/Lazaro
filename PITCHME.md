@@ -19,7 +19,7 @@
 ## Motivación
 
                 
-                Miguel
+Miguel
 
 
 ---
@@ -28,15 +28,15 @@
 
 ## Etapa 1
 
-      Amber Smalltalk
+Modificaciones a Amber Smalltalk
+
+![amber](https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Amber_Smalltalk_Logo.svg/1280px-Amber_Smalltalk_Logo.svg.png)
 
 ---
 
 ---
   
-  Amber es una implementación web de Smalltalk.
-
-![amber](https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Amber_Smalltalk_Logo.svg/1280px-Amber_Smalltalk_Logo.svg.png)
+Amber es una implementación web de Smalltalk.
 
 ---
 
@@ -44,13 +44,15 @@
 
 ## Etapa 2
 
-      Lázaro: lector de pantalla para Pharo
+Lázaro: lector de pantalla para Pharo
+
+![pharo](https://jigyasagrover.files.wordpress.com/2015/03/pharo.jpg)
 
 ---
 
 ---
 
-      Pharo es una implementación desktop de Smalltalk, de software libre.
+Pharo es una implementación desktop de Smalltalk, de software libre.
 
 ---
 
