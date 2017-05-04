@@ -42,6 +42,7 @@ Intención inicial: adaptar lectores existentes
 +++
 
 Resultado: nuestro propio lector!
+
 Lázaro básicamente:
 1. Elige qué leer y en qué momento
 2. Envía el texto al TTS
