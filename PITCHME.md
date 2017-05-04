@@ -2,7 +2,7 @@
 
 # Lázaro
 
-## Un lector de pantalla para Pharo
+## Un lector de pantalla para Pharo Smalltalk
 
 ---
 
@@ -28,25 +28,27 @@ Modificaciones a Amber Smalltalk
 <img src="https://pbs.twimg.com/profile_images/1526408224/amber_logo_400x400.png" width="250" height="250"/>
 
 ---
-  
-Amber es una implementación web de Smalltalk.
-
-
----
 
 ## Etapa 2
 
 Lázaro: lector de pantalla para Pharo
 
-<img src="https://pharo.org/web/files/pharo.png" width="350" height="150"/>
+<img src="https://pharo.org/web/files/pharo.png" width="471" height="155"/>
+
++++
+
+Intención inicial: adaptar lectores existentes
+
++++
+
+Resultado: nuestro propio lector!
+Lázaro básicamente:
+1. Elige qué leer y en qué momento
+2. Envía el texto al TTS
 
 ---
 
-Pharo es una implementación desktop de Smalltalk, de software libre.
-
----
-
-# DEMO
+# DEMOSTRACIÓN
 
 ---
 
